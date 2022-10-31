@@ -1,4 +1,4 @@
-## Olá! Eu sou Arthur Rocha 
+<h1><strong>Welcome! I'm Arthur Rocha</strong></h1> 
 <div >
   <a href= "https://github.com/arthurdev06">
   <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=arthurdev06&theme=dracula">
