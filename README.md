@@ -1,6 +1,4 @@
 ## Olá! Eu sou Arthur Rocha 
-<section>
-<main>
 <div>
   <a href= "https://github.com/arthurdev06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurdev06&theme=dracula">
@@ -16,10 +14,11 @@
   
   ##
   <div>
-  <a href="https://twitter.com/arthurdev06" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  <a href="https://leetcode.com/arthurdev06/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  <a href="https://twitter.com/arthurdev06" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://leetcode.com/arthurdev06/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   </div>
- <div>
-    </div>
- </main>
- </section>
+  
+  ##
+  <p>
+     ![snake gif](https://github.com/arthurdev06/arthurdev06/blob/output/github-contribution-grid-snake.gif)
+  </p>
