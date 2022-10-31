@@ -1,8 +1,8 @@
 ## Olá! Eu sou Arthur Rocha 
 <div>
   <a href= "https://github.com/arthurdev06">
-  <img height="180" width="150" src="https://github-readme-stats.vercel.app/api?username=arthurdev06&theme=dracula">
-  <img height="180" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arthurdev06&theme=dracula">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -10,6 +10,8 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Arthur-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Arthur-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Arthur-AI" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+  <img align="center" alt="Arthur-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 </div>
   
   ##
