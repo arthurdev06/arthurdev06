@@ -21,6 +21,6 @@
   </div>
   
   ##
-  <p>
+
      ![snake gif](https://github.com/arthurdev06/arthurdev06/blob/output/github-contribution-grid-snake.gif)
-  </p>
+  
