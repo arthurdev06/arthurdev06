@@ -3,7 +3,7 @@
 <h1><strong>Welcome! I'm Arthur Rocha</strong></h1> 
 
   <a href= "https://github.com/arthurdev06">
-  <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=arthurdev06&theme=dracula">
+  <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=arthurdev06&show_icons=true&theme=dracula">
   <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdev06&layout=compact&theme=dracula">
 </div>
 <div style="display: inline_block"><br>
