@@ -17,7 +17,7 @@
   <img align="center" alt="Arthur-NVIM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
   <img align="center" alt="Arthur-INKSCAPE" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
   <img align="center" alt="Arthur-GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
-  <img align="center" alt="Arthur-ARCH" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />          
+  <img align="center" alt="Arthur-ARCH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />          
 </div>
   
   ##
